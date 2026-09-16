@@ -3,7 +3,9 @@
 
 Мы в телеграм:
 https://t.me/pro_max_soft
-https://pro-max.space
+
+Сайт 
+https://pro-max.online
 ## Возможности программы
 
 ### 🔐 Управление аккаунтами
